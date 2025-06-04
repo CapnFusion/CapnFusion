@@ -1,15 +1,20 @@
-## Hey there!👋I'm Krish D ##
+## 👋 Hey, I'm Krish
 
-- 🔭 My interests: Space and Astronomy🌌🚀, Physics🔭, Mathematics➗, Computer Science and Technology🖥💻, Books (400+ books completed)📚, Football⚽, and the chaotic yet exhillarating world of Formula 1🏎🏁
+I'm a first-year B.Tech student from NIT Trichy passionate about solving real-world problems using code, curiosity, and creativity.
 
-- 🌱 I’m currently learning various different concepts (both academic and personal to help me become a better person overall!)
+### 🔍 Interests
+- Finance, Machine Learning, Embedded Systems, and Networking
+- Astronomy, Physics, and Mathematics
+- Literature, especially poetry and storytelling
+- Football and the chaos of Formula 1
 
-- 👯 I’m looking to collaborate on literature ,the intricate art of composing poems, coding, statistical analyses and personal growth projects
+### 🚀 Currently Exploring
+- Deep learning and PyTorch
+- Quant Finance and Consulting
+- Product Management
 
-- 📫 How to reach me: --- Email: krishdevarya@gmail.com
-
-- 💬 Ask me about Novels, Poems, Science, Maths , Space , Computers
-
+### 📫 Reach Me At
+- **Email:** krishdevarya@gmail.com
 ## My Stats: ##
 <div align="center">
   
